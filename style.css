@@ -7,7 +7,7 @@
 body{
  background-color:#ebebeb;
  position:relative;
- min-height:100vh;
+ min-height:100%;
 }
 
 nav{
