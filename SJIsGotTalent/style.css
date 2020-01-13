@@ -4,20 +4,6 @@
  font-family:palatino;
 }
 
-html, body{
- background-color:#ebebeb;
- height:100%;
-}
-
-#container {
- min-height=100%;
-}
-
-#main{
- overflow:auto;
- padding-bottom:100px
-}
-
 nav{
  width:100%;
  height:40px;
@@ -115,13 +101,6 @@ footer{
  padding:0;
 }
 
-#footer{
- position: relative;
- height=100px
- margin-top:-100px;
- clear:both;
-}
-
 footer p{
  font-size:15px;
  color:#fff;
@@ -143,4 +122,25 @@ img{
  position:relative;
  top:10px;
  left:15px;
+}
+
+html, body{
+ background-color:#ebebeb;
+ height:100%;
+}
+
+#container {
+ min-height=100%;
+}
+
+#main{
+ overflow:auto;
+ padding-bottom:100px
+}
+
+#footer{
+ position: relative;
+ height=100px
+ margin-top:-100px;
+ clear:both;
 }
